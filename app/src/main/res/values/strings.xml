@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My  Pet Friend</string>
+    <string name="welcome_to_your_virtual_pet">Welcome To Your Virtual pet</string>
+    <string name="my_pet_friend" />
+</resources>
